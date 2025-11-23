@@ -39,3 +39,9 @@ Customer class
 Account class
 Transaction class
 Main menu to interact with accounts
+
+Example Output :
+<img width="386" height="962" alt="image" src="https://github.com/user-attachments/assets/944f8a1d-6d60-4698-9ff7-2dcf90dcb115" />
+<img width="676" height="824" alt="image" src="https://github.com/user-attachments/assets/459b4df4-7920-492a-9e3d-f34e0b59eb3d" />
+
+
